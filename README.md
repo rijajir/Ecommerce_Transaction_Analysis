@@ -286,10 +286,10 @@ It represents the `Promising Customers`. They have a moderate purchasing history
 
 `Optimize Resource Allocation and Improve Profitability:`
 
-Identify High-Value Customers: Focus on the top 59% of customers who drive 80% of sales.
-Personalized Marketing: Tailor marketing efforts to the needs and preferences of high-value customers.
-Prioritize Top-Performing Products: Concentrate on the 36% of products that generate 80% of profit.
-Product Line Review: Evaluate the performance of low-performing products and consider discontinuing or rebranding them.
+* **Identify High-Value Customers:** Focus on the top 59% of customers who drive 80% of sales.
+* **Personalized Marketing:** Tailor marketing efforts to the needs and preferences of high-value customers.
+* **Prioritize Top-Performing Products:** Concentrate on the 36% of products that generate 80% of profit.
+* **Product Line Review:** Evaluate the performance of low-performing products and consider discontinuing or rebranding them.
 
 `Based on the analysis, the marketing team can develop targeted marketing strategies for each customer segment:`
 
